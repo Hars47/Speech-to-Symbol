@@ -1,2 +1,27 @@
-# Speech-to-Text
-Speech-to-Text is a Python based project that uses PyAudio to convert the speech to mathematical functions. 
+# Speech to Symbol
+
+### prerequisite
+
+- Install pyaudio
+
+```bash
+pip install pipwin
+pipwin install pyaudio
+```
+
+- Install speech recognition
+
+```bash
+pip install SpeechRecognition
+```
+
+- Install tkinter
+
+```bash
+pip install tk
+```
+
+### Run
+
+Run the `main.py` file to start the program
+
